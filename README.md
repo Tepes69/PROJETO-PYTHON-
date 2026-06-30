@@ -6,3 +6,4 @@ Tecnologias utilizadas
 - Python
 - Git
 - GitHub
+#adicionar informação do idealizador
